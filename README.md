@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diano C. Budimbo Já 👋</h1>
+<h1 align="center">Hi, I'm Diano C. Budimbo Já </h1>
 
 <h3 align="center">
 Computer Science Student • Software Developer • Artificial Intelligence Enthusiast
