@@ -10,7 +10,7 @@ Building software that solves real-world problems through Software Engineering a
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Computer Science student from Angola with a strong interest in Software Engineering, Backend Development and Artificial Intelligence.
 
