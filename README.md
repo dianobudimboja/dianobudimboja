@@ -12,7 +12,7 @@ Building software that solves real-world problems through Software Engineering a
 
 ##  About Me
 
-I'm a Computer Science student from Angola with a strong interest in Software Engineering, Backend Development and Artificial Intelligence.
+I'm a Computer Science student from Angola with a strong dealing with Software Engineering, Backend Development and Artificial Intelligence.
 
 I enjoy designing software architectures, building REST APIs and developing intelligent systems capable of solving real problems in sectors such as:
 
