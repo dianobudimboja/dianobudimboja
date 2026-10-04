@@ -1,159 +1,233 @@
-<h1 align="center">Hi, I'm Diano C. Budimbo Já </h1>
+# Hi, I'm Diano C. Budimbo Já
 
-<h3 align="center">
-Computer Science Student • Software Developer • Artificial Intelligence Enthusiast
-</h3>
+### Computer Science Student · Software Engineer · AI Builder
 
-<p align="center">
-Building software that solves real-world problems through Software Engineering and Artificial Intelligence.
-</p>
+I’m a Computer Science student from Angola focused on **Software Engineering, Backend Development, and Artificial Intelligence**.
 
----
+I build software products designed to solve real-world problems, with particular interest in **backend systems, APIs, databases, software architecture, and AI-powered applications**.
 
-##  About Me
+My work is driven by a simple principle:
 
-I'm a Computer Science student from Angola with a strong dealing with Software Engineering, Backend Development and Artificial Intelligence.
-
-I enjoy designing software architectures, building REST APIs and developing intelligent systems capable of solving real problems in sectors such as:
-
-- 🌾 Agriculture
-- 🏥 Healthcare
-- 💰 Finance
-- 📊 Business Management
-- 🔬 Scientific Research
-
-I believe technology should create real impact for people and businesses.
+> **Build technology that is useful, technically sound, and capable of creating real-world impact.**
 
 ---
 
-##  Current Focus
+## About Me
 
-- Backend Development
-- Software Architecture
-- Artificial Intelligence
-- REST APIs
-- Database Design
-- Scalable Systems
+I’m currently studying **Computer Science at IMETRO**, while developing practical experience through software projects, hackathons, technology initiatives, and product development.
+
+My main technical focus is **backend engineering with Python**, particularly Django and Flask, combined with database design, REST APIs, and AI integration.
+
+I’m particularly interested in building systems for areas such as:
+
+* 🌾 Agriculture
+* 💰 Financial Services
+* 🏥 Healthcare
+* 📊 Business & Operations
+* 🔬 Science & Technology
+
+Beyond software development, I’m also involved in **technology education and science communication**, including my work through **Cientificando**.
 
 ---
 
-##  Technologies
+## What I Build
 
-### Programming Languages
+My current interests are centred around:
 
-- Python
-- JavaScript
-- SQL
-- C
-- Dart
+* Backend Development
+* Software Architecture
+* REST APIs
+* Database Design
+* Artificial Intelligence
+* AI-powered Products
+* Business Applications
+* Scalable Software Systems
+* Automation & Intelligent Systems
+
+---
+
+## Technical Stack
+
+### Languages
+
+* Python
+* JavaScript
+* SQL
+* C
+* Dart
 
 ### Backend
 
-- Django
-- Flask
-- REST APIs
-- SQLAlchemy
-- Jinja2
-
-### Backend
-
-- Flutter
+* Django
+* Django REST Framework
+* Flask
+* SQLAlchemy
+* REST APIs
+* Jinja2
 
 ### Databases
 
-- PostgreSQL
-- MySQL
-- SQLite
+* PostgreSQL
+* MySQL
+* SQLite
+* Supabase
+
+### Mobile
+
+* Flutter
+* React Native
+* Expo
 
 ### Software Engineering
 
-- SOLID Principles
-- UML
-- MVC
-- Layered Architecture
-- Git Flow
-- Requirements Engineering
+* Object-Oriented Programming
+* SOLID Principles
+* MVC
+* Layered Architecture
+* UML
+* Requirements Engineering
+* API Design
+* Git & GitHub
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- PyCharm
-- Postman
-- Figma
+* Git
+* GitHub
+* VS Code
+* PyCharm
+* Postman
+* Figma
 
 ---
 
 ## Featured Projects
 
-### 🌱 AgroIntel AI
+### 🤖 NEXA — The Intelligence Network
 
-AI-powered agriculture platform.
+An early-stage **agentic AI platform for organizations**, designed to move beyond conversational AI and enable intelligent systems to understand context, use tools, coordinate actions, and execute workflows.
 
-- Intelligent Diagnostics
-- AI Assistant
-- Farm Planning
-- Weather Module
-- REST APIs
+**Focus:**
 
----
+* Agentic AI
+* AI Orchestration
+* AI Agents
+* Knowledge Systems
+* Context & Tool Integration
+* Organizational Workflows
+* Backend Architecture
 
-### 🏥 MedIntel
-
-HealthTech platform powered by Artificial Intelligence.
-
-- Clinical Decision Support
-- AI Vision Integration
-- Backend APIs
-- Medical Platform
+**Stack:** Python · Django · Django REST Framework · PostgreSQL
 
 ---
 
 ### 💰 Conta Certa
 
-Financial management platform for small businesses.
+A financial management platform designed for **informal vendors and small businesses**, focused on helping entrepreneurs maintain practical control over their business operations and finances.
 
-- Business Management
-- Financial Control
-- Backend Architecture
-- Flutter Mobile
+The product is designed around a simple principle:
+
+> **Don’t teach financial theory. Teach real control.**
+
+**Focus:**
+
+* Business Management
+* Financial Control
+* Backend Architecture
+* Mobile Applications
+* Data Management
+
+**Stack:** Python · Django · REST APIs · Flutter
+
+---
+
+### 🌱 AgroIntel
+
+A technology platform designed to support **small-scale farmers** through digital tools for agricultural planning, information access, and decision support.
+
+**Focus:**
+
+* Agricultural Technology
+* Farm Planning
+* Decision Support
+* Offline/Low-Connectivity Environments
+* Mobile Applications
+* REST APIs
+
+---
+
+### 🏥 MedIntel
+
+A HealthTech project focused on developing a **clinical information and decision-support platform** for healthcare professionals.
+
+**Focus:**
+
+* Clinical Decision Support
+* Medical Data
+* Machine Learning
+* Backend APIs
+* Healthcare Technology
 
 ---
 
 ### 🔬 Cientificando
 
-Science and Technology initiative focused on Computer Science and Artificial Intelligence.
+A science and technology initiative focused on **science communication, Computer Science, Artificial Intelligence, and emerging technologies** for an Angolan audience.
+
+Cientificando is also an environment where I explore the intersection between **technology, science, communication, and society**.
 
 ---
 
-## 📚 Currently Learning
+## Experience & Activities
 
-- Docker
-- CI/CD
-- Cloud Computing
-- Microservices
-- Distributed Systems
-- Machine Learning
+### Software Engineering
 
----
+Building backend systems, APIs, databases, and software products through academic, personal, startup, and hackathon projects.
 
-## 🎯 Career Goals
+### Technology Education
 
-I aim to become a Software Engineer specialized in Backend Development, Software Architecture and Artificial Intelligence, contributing to technologies that create meaningful impact across Africa and beyond.
+Teaching programming and technology, including practical activities involving programming, computational thinking, and game development.
 
----
+### Hackathons & Innovation
 
-## 📫 Contact
-
-📧 Email: diano.budimboja@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/dianobudimboja
-
-💻 GitHub:
-https://github.com/dianobudimboja
+Participating in technology competitions and innovation programmes focused on solving real-world problems through software and AI.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Currently Exploring
+
+* Docker & Containerization
+* CI/CD
+* Cloud Computing
+* Distributed Systems
+* AI Agents & Agentic Systems
+* Machine Learning
+* Software Architecture
+* Production-grade Backend Systems
+
+---
+
+## Areas I’m Interested In
+
+I’m particularly interested in opportunities involving:
+
+**Software Engineering · Backend Development · Artificial Intelligence · APIs · Data & Databases · Cloud Systems · Automation · Technology Products**
+
+I’m open to **junior engineering roles, internships, technical collaborations, and opportunities to contribute to real-world software products**.
+
+---
+
+## Connect With Me
+
+📧 **Email:** [diano.budimboja@gmail.com](mailto:diano.budimboja@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/dianobudimboja](https://linkedin.com/in/dianobudimboja)
+
+💻 **GitHub:** [github.com/dianobudimboja](https://github.com/dianobudimboja)
+
+🌐 **Cientificando:** [cientificando.vercel.app](https://cientificando.vercel.app)
+
+---
+
+> **Build. Learn. Analyse. Improve.**
+
+⭐ Thanks for visiting my profile.
